@@ -1,4 +1,4 @@
-"Chapter 6 - Interactive Widgets" 
+#"Chapter 6 - Interactive Widgets" 
 In this chapter, you’ll explore interactive widgets. In particular, you’ll learn to create:
 • Gesture-based widgets
 • Time and date picker widgets
